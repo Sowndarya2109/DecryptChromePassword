@@ -1,1 +1,1 @@
-# DecryptChromePassword
+Encryption and Decryption of saved chrome password.
